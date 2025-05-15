@@ -1,0 +1,15 @@
+body {
+  background-color: #243034;
+  font-family: Arial, sans-serif;
+}
+
+.hero-section {
+  height: 90vh;
+  background-color: #243034;
+}
+
+.bike-img {
+  width: 400px;
+  height: auto
+  background-colour #243034;
+}
